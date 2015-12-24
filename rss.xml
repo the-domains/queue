@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[Queue]]></title>
         <description><![CDATA[Queue]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/queue/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 02:44:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Dec 2015 02:05:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/queue/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[hello hello]]></title>
+            <description><![CDATA[<article><h1>hello hello</h1><p>hello hello won't you come right in</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/525fe8ea570a1155ee5c926e745438f144aabf5b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/queue/hello-hello/index.html</link>
+            <guid isPermaLink="false">977c56a9-1106-42a6-9039-4a38fb543242</guid>
+            <pubDate>Thu, 24 Dec 2015 02:05:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinedc945af4f-5e65-462b-a334-b5ae677d6a29/index.html</link>
+            <description><![CDATA[<p>Hello world, welcome.</p>]]></description>
+            <link>https://thegrid.ai/queue/c945af4f-5e65-462b-a334-b5ae677d6a29/index.html</link>
             <guid isPermaLink="false">c945af4f-5e65-462b-a334-b5ae677d6a29</guid>
             <pubDate>Wed, 23 Dec 2015 02:44:34 GMT</pubDate>
         </item>
